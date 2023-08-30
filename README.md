@@ -11,3 +11,7 @@ An audio player based on NAudio, composing by these functions:
 1.Generic functions of music player, including making playlists from local files, previous/next buttons, play/pause, loop mode switching, as well as progress bar and sound control  
 2.Manifesting the information of the .mp3 file under playing  
 3.Playback speed control(including changing the tune and tempo synchronously, and changing tempo merely), refer to https://github.com/naudio/varispeed-sample  
+
+
+![Image text]
+(https://github.com/DevilHamster/AudioPerformer/blob/master/img_folder/Manifest.png)

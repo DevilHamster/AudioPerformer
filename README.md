@@ -13,5 +13,4 @@ An audio player based on NAudio, composing by these functions:
 3.Playback speed control(including changing the tune and tempo synchronously, and changing tempo merely), refer to https://github.com/naudio/varispeed-sample  
 
 
-![Image text]
-(https://github.com/DevilHamster/AudioPerformer/blob/master/img_folder/Manifest.png)
+![image](https://github.com/DevilHamster/AudioPerformer/blob/master/img_folder/Manifest.png)
